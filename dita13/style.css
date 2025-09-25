@@ -1,0 +1,74 @@
+div#static{
+    position: static;
+    border: 3px solid #00014e;
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+}
+
+div#relative{
+    position: relative;
+    border: 3px solid #00014e;
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+    top:50px;
+    left:50px;
+}
+div#fixed{
+    position: fixed;
+    border: 3px solid #00014e;
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+    top:50px;
+    right:50px;
+}
+
+div#parent{
+    position: relative;
+    border: 3px solid #00014e;
+    width: 250px;
+    height: 250px;
+}
+
+div#absolute{
+    position: relative;
+    border: 3px solid #00014e;
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+    top:70px;
+    right:80x;
+    color: white;
+}
+
+div#sticky{
+    position: sticky;
+    top: 0;
+    background-color: #00014e;
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+    color: white;
+}
+
+.hoverable{
+    background-color:blueviolet;
+    overflow: hidden;
+    margin-bottom: 300px;
+
+}
+
+.hoverable a {
+    padding: 14px 20px;
+    text-align: center;
+    text-decoration: wavy;
+    color:antiquewhite;
+
+}
+
+.hoverable a:hover{
+    background-color:coral;
+    color:black;
+}

@@ -1,0 +1,73 @@
+h1{
+    color: green;
+    letter-spacing: 20px;
+    word-spacing: 100px;
+}
+
+p{
+    text-indent: 50px;
+    text-align: center;
+}
+
+
+
+.edu-nsw-act-hand-pre-regular  {
+  font-family: "Edu NSW ACT Hand Pre", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.edu-nsw-act-hand-pre-semi-bold  {
+  font-family: "Edu NSW ACT Hand Pre", cursive;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+.edu-nsw-act-hand-pre-bold  {
+  font-family: "Edu NSW ACT Hand Pre", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+.edu-nsw-act-hand-pre-light {
+  font-family: "Edu NSW ACT Hand Pre", cursive;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+.edu-nsw-act-hand-pre-thin  {
+  font-family: "Edu NSW ACT Hand Pre", cursive;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+
+
+h2{
+    text-decoration: overline;
+    color: orange !important;
+    font-size: 40px;
+
+}
+h3{
+    text-decoration: line-through;
+}
+h3{
+    text-decoration:underline;
+}
+a{
+    text-decoration: none;
+}
+
+.normalText{
+    font-style: normal;
+}
+
+.italicText{
+    font-style:italic;
+}
+
+.obliqueText{
+    font-style: oblique;
+}
